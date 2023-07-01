@@ -1,4 +1,4 @@
-// Created by Viacheslav (Slava) Skryabin 04/01/2011
+
 package definitions;
 
 import cucumber.api.java.en.Given;
